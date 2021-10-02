@@ -1,0 +1,6 @@
+Credentials cache: API:C97985FD-CBD3-4FD2-A7CE-8E431D92144C
+        Principal: frudello@42ROMA.IT
+
+  Issued                Expires               Principal
+Sep 30 08:52:22 2021  Sep 30 18:52:22 2021  krbtgt/42ROMA.IT@42ROMA.IT
+Sep 30 08:52:24 2021  Sep 30 18:52:22 2021  HTTP/storage.42roma.it@42ROMA.IT
